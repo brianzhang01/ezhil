@@ -62,7 +62,8 @@ textarea {
 blockquote {
     margin-left: 1rem;
     font-style: italic;
-    font-size: 1.4rem;
+/*    font-size: 1.4rem;*/
+    font-size: 1.2rem;
     font-family: Georgia,bitstream charter,serif;
     border-left: 3px solid;
     border-color: #a00;
@@ -95,11 +96,13 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 h1 {
-    font-size: 2.75rem
+/*    font-size: 2.75rem*/
+    font-size: 2rem
 }
 
 h2 {
-    font-size: 2rem
+/*    font-size: 2rem*/
+    font-size: 1.6rem
 }
 
 h3 {
